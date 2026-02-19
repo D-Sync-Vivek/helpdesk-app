@@ -44,7 +44,6 @@ const DetailBar = () => {
     Reporter: "Allie Harmon",
   });
 
-  const endTitle = ["Tasks", "Collected Fields", "Linked Tickets ", "History"];
 
   const [visible, setVisible] = useState(true);
   const handleVisible = () => {
